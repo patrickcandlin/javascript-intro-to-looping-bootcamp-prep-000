@@ -3,9 +3,9 @@ function forLoop (array) {
 for (let i = 0; i < 25; i++) {
 if (i === 1) { 
    	x = "I am " + parseInt(i) +" strange loop.";
- array.push(x);
+    array.push(x);
       } else{x= "I am 24 strange loops.";
- array.push(x);
+    array.push(x);
         }
         
   }
